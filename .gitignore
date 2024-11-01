@@ -1,0 +1,8 @@
+venv/
+.tox/
+__pycache__/
+config.py
+.vscode/
+last_*
+used_*
+*.log
